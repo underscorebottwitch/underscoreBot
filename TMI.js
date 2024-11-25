@@ -1,8 +1,8 @@
 const client = new tmi.Client({
   options: { debug: true },
   identity: {
-      username: TWITCH_BOT_USERNAME,
-      password: TWITCH_OAUTH_TOKEN
+      username: underscoreunderscorebot,
+      password: oauth:mq9ffvxqr48mlmt5a3njpum03oz723
   },
-  channels: [TWITCH_CHANNEL_NAME]
+  channels: [FacetiousAnarchist]
 });
